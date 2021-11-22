@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @madsbala
+- 👀 I’m interested in getting better at coding, because at this point I'm still a novice
+- 🌱 I’m currently learning about coding databases
+- 💞️ I’m not looking to collaborate right now, but maybe it changes as i get better in the future
+- 📫 You can reach me on my mail mads.bagge@live.dk
